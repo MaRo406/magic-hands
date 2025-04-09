@@ -1,0 +1,12 @@
+---
+title: ""
+image: img/magic-hands.png
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 30em
+---
+
+<!-- **Healing Begins with a Touch**  -->
+
+
